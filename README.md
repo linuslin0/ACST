@@ -3,7 +3,7 @@ ACST
 Public releases for ACSaveTool
 
 #### Feature:
-- Convert save files between different account ID/KEY/legacy username, depends on different game titles.
+- Convert save files between different account GUID/game key/legacy username, depends on different game titles.
 - Multiple save file processing at once.
 - Supported game saves:
 ```
