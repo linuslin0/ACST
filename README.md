@@ -7,14 +7,14 @@ Public releases for ACSaveTool
 - Multiple save file processing at once.
 - Supported game saves:
 ```
-Assassin's Creed Odyssey    // Account ID string
-Assassin's Creed Origins    // Account ID string
-Assassin's Creed Syndicate    // Account ID string
-Assassin's Creed Rogue    // Key
-Assassin's Creed Unity    // Account ID string
-Assassin's Creed Liberation HD    // Key
-Assassin's Creed IV Black Flag    // Key
-Assassin's Creed III    // Key
+Assassin's Creed Odyssey    // Account GUID
+Assassin's Creed Origins    // Account GUID
+Assassin's Creed Syndicate    // Account GUID
+Assassin's Creed Rogue    // Game key
+Assassin's Creed Unity    // Account GUID
+Assassin's Creed Liberation HD    // Game key
+Assassin's Creed IV Black Flag    // Game key
+Assassin's Creed III    // Game key
 Assassin's Creed Revelations    // Legacy username
 ```
 
@@ -23,7 +23,7 @@ Windows 7 and later, x64 edition.
 
 #### Disclaimer:
 This software is provided "AS IS" for research purpose only, and forbidden of commercial use.
-I am not responsible for any file damage you may cause by using this software.
+I am not responsible for any save data corruption may cause by using this software.
 
 #### Bug report:
 Please open issues [here](https://github.com/linzhouyu/ACST/issues).
