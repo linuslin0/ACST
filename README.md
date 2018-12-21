@@ -1,6 +1,7 @@
 ACST
 ====
-Public releases for ACSaveTool
+Public releases for ACSaveTool  
+For downloads, please refer to [Release](https://github.com/linzhouyu/ACST/releases) page.
 
 #### Feature:
 - Convert saves between different encryption IDs.
@@ -14,7 +15,8 @@ Public releases for ACSaveTool
 3. Enter `Decryption ID` for the loaded saves, or select `Detect` checkbox.
 4. Enter `Encryption ID` needs to be converted to, or use that weird button, open a test save to detect encryption ID.
 5. Click `Convert` button, original saves will be backed up as *.bak before making any changes.
-6. Copy converted files (*.save) to save location, you may need to temporarily disable cloud save sync before starting the game.  
+6. Copy converted files (*.save) to save location, you may need to temporarily disable cloud save sync before starting the game.
+
 Note: Detection features only support certain saves.
 
 Supported game saves and their decryption/encryption ID type:
