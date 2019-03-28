@@ -1,6 +1,13 @@
 ACST Changelog
 ==============
 
+#### v2.3.0
+- Added support for loading certain non-standard saves (*.sav)
+- Moved backup save location to seperate `acst_backup` folder
+- Fixed test save file processing logic
+- Performance optimisation
+- Miscellaneous GUI issue fixup
+
 #### v2.2.0
 - Disable detection feature if user choose game title as ACR
 - Added support for Steep saves

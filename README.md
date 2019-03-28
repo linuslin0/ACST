@@ -21,16 +21,16 @@ Note: Detection features only support certain saves.
 
 Supported game saves and their decryption/encryption ID type:
 ```
-Assassin's Creed Odyssey        // Account GUID
-Assassin's Creed Origins        // Account GUID
-Steep                           // Account GUID
-Assassin's Creed Syndicate      // Account GUID
-Assassin's Creed Rogue          // Game key
-Assassin's Creed Unity          // Account GUID
-Assassin's Creed Liberation HD  // Game key
-Assassin's Creed IV Black Flag  // Game key
-Assassin's Creed III            // Game key
-Assassin's Creed Revelations    // Legacy username
+Assassin's Creed Odyssey           // Account GUID
+Assassin's Creed Origins           // Account GUID
+Steep                              // Account GUID
+Assassin's Creed Syndicate         // Account GUID
+Assassin's Creed Rogue             // Game key
+Assassin's Creed Unity             // Account GUID
+Assassin's Creed Liberation HD     // Game key
+Assassin's Creed IV Black Flag     // Game key
+Assassin's Creed III [Remastered]  // Game key [Account GUID]
+Assassin's Creed Revelations       // Legacy username
 ```
 
 #### Requirements:
