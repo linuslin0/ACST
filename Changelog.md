@@ -1,11 +1,16 @@
 ACST Changelog
 ==============
 
+#### v2.3.1
+- Added support to convert ACLHD save to ACLRM (double click `Encryption ID` label)
+- Show output file name if different from the original file
+- Adjusted release package structure
+
 #### v2.3.0
 - Added support for loading certain non-standard saves (*.sav)
-- Moved backup save location to seperate `acst_backup` folder
+- Moved backup save location to separate `acst_backup` folder
 - Fixed test save file processing logic
-- Performance optimisation
+- Performance optimization
 - Miscellaneous GUI issue fixup
 
 #### v2.2.0
@@ -16,7 +21,7 @@ ACST Changelog
 - Some cleanup and minor GUI issue fixes
 
 #### v2.1.1
-- Additional checking for test save path to prevent folder or file with same name been used as test save
+- Additional checking for the test save path to prevent folder or file with same name been used as test save
 - Relaxed filtering for decryption/encryption ID input to allow underscores (_) and dots (.)
 
 #### v2.1.0
@@ -27,3 +32,4 @@ ACST Changelog
 
 #### v2.0.0
 - First public release
+

@@ -14,7 +14,7 @@ For downloads, please refer to [Release](https://github.com/linzhouyu/ACST/relea
 2. Choose the matching game title, or leave as `[Auto Detect]`.
 3. Enter `Decryption ID` for the loaded saves, or select `Detect` checkbox.
 4. Enter `Encryption ID` needs to be converted to, or use that weird button, open a test save to detect encryption ID.
-5. Click `Convert` button, original saves will be backed up as *.bak before making any changes.
+5. Click `Convert` button, original saves will be backed up in `acst_backup` folder.
 6. Copy converted files (*.save) to save location, you may need to temporarily disable cloud save sync before starting the game.
 
 Note: Detection features only support certain saves.
