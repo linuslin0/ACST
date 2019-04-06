@@ -2,7 +2,7 @@ ACST Changelog
 ==============
 
 #### v2.3.1
-- Added support to convert ACLHD save to ACLRM (double click `Encryption ID` label)
+- Added support to convert ACLHD save to ACLRM (choose ACLHD & double click `Encryption ID` label)
 - Show output file name if different from the original file
 - Adjusted release package structure
 
