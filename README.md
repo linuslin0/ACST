@@ -30,7 +30,7 @@ Assassin's Creed Unity             // Account GUID
 Assassin's Creed Liberation HD     // Game key
 Assassin's Creed IV Black Flag     // Game key
 Assassin's Creed III [Remastered]  // Game key [Account GUID]
-Assassin's Creed Revelations       // Legacy username
+Assassin's Creed Revelations       // Legacy username in lower case
 ```
 
 #### Requirements:
