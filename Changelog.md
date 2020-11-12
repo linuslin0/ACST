@@ -1,6 +1,11 @@
 ACST Changelog
 ==============
 
+#### v2.4.0
+- Added support for ACValhalla
+- Added input validation for Encryption/Decryption ID fields
+- Minor GUI tweaks
+
 #### v2.3.1
 - Added support to convert ACLHD save to ACLRM (choose ACLHD & double click `Encryption ID` label)
 - Show output file name if different from the original file
