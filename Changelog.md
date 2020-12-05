@@ -1,6 +1,12 @@
 ACST Changelog
 ==============
 
+#### v2.4.1
+- Added support for Immortals Fenyx Rising
+- Improved compability for some old saves
+- Fixed broken input validation for certain game titles
+- Added more tooltips to GUI
+
 #### v2.4.0
 - Added support for ACValhalla
 - Added input validation for Encryption/Decryption ID fields

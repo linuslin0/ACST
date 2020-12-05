@@ -18,18 +18,20 @@ For downloads, please refer to [Release](https://github.com/linzhouyu/ACST/relea
 6. Copy converted files (*.save) to save location, you may need to temporarily disable cloud save sync before starting the game.
 
 Supported game saves and their decryption/encryption ID type:
+Note: Use `Account ID` and `Account (legacy) username` in lowercase; `Game key` in uppercase.
 ```
-Assassin's Creed Valhalla          // Account UUID
-Assassin's Creed Odyssey           // Account UUID
-Assassin's Creed Origins           // Account UUID
-Steep                              // Account UUID
-Assassin's Creed Syndicate         // Account UUID
+Assassin's Creed Valhalla          // Account ID
+Assassin's Creed Odyssey           // Account ID
+Assassin's Creed Origins           // Account ID
+Assassin's Creed Syndicate         // Account ID
 Assassin's Creed Rogue             // Game key
-Assassin's Creed Unity             // Account UUID
+Assassin's Creed Unity             // Account ID
 Assassin's Creed Liberation HD     // Game key
 Assassin's Creed IV Black Flag     // Game key
-Assassin's Creed III [Remastered]  // Game key [Account UUID]
-Assassin's Creed Revelations       // Legacy username
+Assassin's Creed III [Remastered]  // Game key [Account ID]
+Assassin's Creed Revelations       // Account (legacy) username
+Immortals Fenyx Rising             // Account ID
+Steep                              // Account ID
 ```
 
 #### Requirements:
