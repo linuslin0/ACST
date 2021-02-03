@@ -18,7 +18,6 @@ For downloads, please refer to [Release](https://github.com/linzhouyu/ACST/relea
 6. Copy converted files (*.save) to save location, you may need to temporarily disable cloud save sync before starting the game.
 
 Supported game saves and their decryption/encryption ID type:
-Note: Use `Account ID` and `Account (legacy) username` in lowercase; `Game key` in uppercase.
 ```
 Assassin's Creed Valhalla          // Account ID
 Assassin's Creed Odyssey           // Account ID
@@ -33,6 +32,7 @@ Assassin's Creed Revelations       // Account (legacy) username
 Immortals Fenyx Rising             // Account ID
 Steep                              // Account ID
 ```
+Note: Use `Account ID` and `Account (legacy) username` in lowercase; `Game key` in uppercase.
 
 #### Requirements:
 Windows 7 and later, x64 edition.

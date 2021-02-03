@@ -1,6 +1,11 @@
 ACST Changelog
 ==============
 
+#### v2.4.2
+- Fixed issue when processing certain non-standard saves
+- GUI: Added dark mode support
+- GUI: Added Preferences panel (Ctrl-P, for specific use only)
+
 #### v2.4.1
 - Added support for Immortals Fenyx Rising
 - Improved compatibility for some old saves
