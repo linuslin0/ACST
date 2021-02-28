@@ -1,6 +1,11 @@
 ACST Changelog
 ==============
 
+#### v2.4.3
+- Added option on Preferences to keep current save format
+- Added support for loading certain non-standard saves
+- Applied workaround to prevent crash on platforms have Hardware-enforced Stack Protection enabled
+
 #### v2.4.2
 - Fixed issue when processing certain non-standard saves
 - GUI: Added dark mode support
