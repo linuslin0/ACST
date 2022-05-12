@@ -35,7 +35,7 @@ Steep                              // Account ID
 Note: Use `Account ID` and `Account (legacy) username` in lowercase; `Game key` in uppercase.
 
 #### Requirements:
-Windows 7 or later, x64 edition.
+Windows 10 or later, x64 edition.
 
 #### Disclaimer:
 This software is provided "AS IS" and for research purpose only. Commercial use prohibited.
