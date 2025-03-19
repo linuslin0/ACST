@@ -1,25 +1,29 @@
 ACST
 ====
 Public releases for ACSaveTool  
-For downloads, please refer to [Release](https://github.com/linzhouyu/ACST/releases) page.
+For downloads, please go to the [Release](https://github.com/linuslin0/ACST/releases) page.
 
-#### Features:
+## Features
 - Convert saves between different encryption IDs.
-- Support various game saves.
-- Multiple file processing.
-- Auto-detect game titles, decryption/encryption key for certain saves.
-- Auto save path lookup for supported titles.
+- Support for various game saves.
+- Process multiple files simultaneously.
+- Auto-detect game titles and decryption/encryption keys for certain saves.
+- Automatically lookup save paths for supported titles.
 
-#### Usage:
-1. Open save files by clicking `Open` button, or drag and drop to the app window.
-2. Choose the matching game title, or leave as `[Auto Detect]` (only works for certain game saves).
-3. Enter `Decryption ID` for loaded saves, or use the `Detect` checkbox.
-4. Enter `Encryption ID` for new saves. Or click the button on the right to open a test save for encryption key detection.
-5. Click `Convert` button, original saves will be backed up in `acst_backup` folder.
-6. Copy the converted saves to the corresponding game save location. You might need to temporarily disable cloud save sync before starting the game.
+## Usage
+1. Open save files by clicking the `Open` button or drag and drop saves into the app window.
+2. Select the appropriate game title, or leave it as `[Auto Detect]` (only works for certain game saves).
+3. Input the `Decryption ID` for the loaded saves, or check the `Detect` box.
+4. Input the `Encryption ID` for the new saves, or click the button on the right to open a test save for encryption key detection.
+5. Click the `Convert` button. The original saves will be backed up in the `acst_backup` folder.
+6. Copy the converted saves to the corresponding game save location. You may need to temporarily disable cloud save sync before launching the game.
 
+Refer to [FAQ](FAQ.md) for common issues and tips.
+
+## Supported Games
 Supported game saves and their decryption/encryption ID type:
 ```
+Assassin's Creed Shadows           // Account ID
 Assassin's Creed Mirage            // Account ID
 Assassin's Creed Valhalla          // Account ID
 Assassin's Creed Odyssey           // Account ID
@@ -36,17 +40,13 @@ Immortals Fenyx Rising             // Account ID
 ```
 Note: Use `Account ID` and `Account (legacy) username` in lowercase; `Game key` in uppercase.
 
-#### Requirements:
-Windows 10 or later, x64 edition.
+## Requirements
+Windows 10 or later (64-bit).
 
-#### Disclaimer:
-This software is provided "AS IS" and for research purposes only. Commercial use prohibited.
-The author is not responsible for any data corruption that may be caused by using this software.
+## Disclaimer
+This software is provided "AS IS" for research purposes only. Commercial use is prohibited. The author is not liable for any save data corruption or loss that may occur from using this software.
 
-#### Bug report:
-Please open issues [here](https://github.com/linuslin0/ACST/issues).
-
-#### Credits:
+## Credits
 - [Ubisoft](https://www.ubisoft.com/) for all the fun.
 - [Linus L.](https://github.com/linuslin0) for writing this tool.
 - machine4578 for testing and feedback.
