@@ -1,5 +1,10 @@
 # ACSaveTool Changelog
 
+## v2.6.1
+- Added support for AC:BlackFlag Resynced
+- GUI: Fixed regression when handling save paths
+- CLI: Fixed the Encryption ID format verification
+
 ## v2.6.0
 - Added support for the AC:Shadows
 - Added support for CLI mode

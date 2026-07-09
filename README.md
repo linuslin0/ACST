@@ -23,20 +23,21 @@ Refer to [FAQ](FAQ.md) for common issues and tips.
 ## Supported Games
 Supported game saves and their decryption/encryption ID type:
 ```
-Assassin's Creed Shadows           // Account ID
-Assassin's Creed Mirage            // Account ID
-Assassin's Creed Valhalla          // Account ID
-Assassin's Creed Odyssey           // Account ID
-Assassin's Creed Origins           // Account ID
-Assassin's Creed Syndicate         // Account ID
-Assassin's Creed Rogue             // Game key
-Assassin's Creed Unity             // Account ID
-Assassin's Creed Liberation HD     // Game key
-Assassin's Creed IV Black Flag     // Game key
-Assassin's Creed III Remastered    // Account ID
-Assassin's Creed III               // Game key
-Assassin's Creed Revelations       // Account (legacy) username
-Immortals Fenyx Rising             // Account ID
+Assassin's Creed Black Flag Resynced    // Account ID
+Assassin's Creed Shadows                // Account ID
+Assassin's Creed Mirage                 // Account ID
+Assassin's Creed Valhalla               // Account ID
+Assassin's Creed Odyssey                // Account ID
+Assassin's Creed Origins                // Account ID
+Assassin's Creed Syndicate              // Account ID
+Assassin's Creed Rogue                  // Game key
+Assassin's Creed Unity                  // Account ID
+Assassin's Creed Liberation HD          // Game key
+Assassin's Creed IV Black Flag          // Game key
+Assassin's Creed III Remastered         // Account ID
+Assassin's Creed III                    // Game key
+Assassin's Creed Revelations            // Account (legacy) username
+Immortals Fenyx Rising                  // Account ID
 ```
 Note: Use `Account ID` and `Account (legacy) username` in lowercase; `Game key` in uppercase.
 
